@@ -15,6 +15,14 @@
 
 6. [Resolving a network problem with ICMP and ARP](#resolving-a-network-problem-with-icmp-and-arp)
 
+7. [Theorical Analysis](#theorical-analysis)
+
+8. [Conclusion](#conclusion)
+
+9. [Quizz](#quizz)
+
+10. [Ressources](#ressources)
+
 # Introduction
 Following the lesson about TCP/IP protocol we had 4 exercices to practice more on the notions we talked about. The aim of this activity was to look more in depth how protocols worked, how devices communicates between them and how to properly setup a network. In this file you will find all the steps I followed to complete the exercices, the difficulties I faced and the solutions I found. I will then proceed to a critical analysis about the differents protocols (TCP/IP, UDP), and then I will conclude with the knowledge I acquired and the impact of TCP/IP on a network.
 
@@ -178,4 +186,22 @@ And TCP faster but less reliable is used for online gaming, streaming, and VoIP 
 
 # Conclusion
 
-This course with these exercises allowed me to plainfully understand this notion of TCP/IP that I only seen theorically at work or during my own research session. 
+This course with these exercises allowed me to plainfully understand this notion of TCP/IP that I only seen theorically at work or during my own research session. I now understand precisely how it works, the pros and cons of using the differents protocols, creating subnets and DHCP. I am now able to fully setup a whole network using TCP/IP methods, as well as maintaining it to be operative.
+
+# QUIZZ
+
+1) A
+2) C
+3) C
+4) C
+5) B
+
+# RESSOURCES
+
+[Digital Ocean](https://www.digitalocean.com)
+
+[ChatGPT](https://chatgpt.com)
+
+[WikiPedia](https://wikipedia.org)
+
+[StackOverflow Forums](stackoverflow.com)
