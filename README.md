@@ -176,7 +176,7 @@ In the first exercice I had a problem where my VMs won't connect to DHCP, so I h
 In the second exercice the first issue was that I hadn't a HTTP website to access, so I simply check on internet how to create one quickly with a bash command with my Linux VM.
 Then I had to find a simple way to analyze UDP packet, so instead of accessing a streaming platform I just used the "nc" command to send packets to the VM I had Wireshark on. ( [Network performance analysis with Wireshark](#network-performance-analysis-with-wireshark) )
 
-In the third exercice my only issue was finding a way to simulate a RTP packet as I didn't knew how to use the packet traffic generator, so I simply checked how to use it on the internet. ( [Comparative study: TCP vs UDP in a simulated environment](#comparative-study:-tcp-vs-udp-in-a-simulated-environment) )
+In the third exercice my only issue was finding a way to simulate a RTP packet as I didn't knew how to use the packet traffic generator, so I simply checked how to use it on the internet. ( [Comparative study: TCP vs UDP in a simulated environment](#comparative-study-tcp-vs-udp-in-a-simulated-environment) )
 
 # Theorical analysis
 
