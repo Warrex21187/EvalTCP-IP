@@ -11,7 +11,7 @@
 
 4. [Network performance analysis with Wireshark](#network-performance-analysis-with-wireshark)
 
-5. [Comparative study: TCP vs UDP in a simulated environment](#comparative-study:-tcp-vs-udp-in-a-simulated-environment)
+5. [Comparative study: TCP vs UDP in a simulated environment](#comparative-study-tcp-vs-udp-in-a-simulated-environment)
 
 6. [Resolving a network problem with ICMP and ARP](#resolving-a-network-problem-with-icmp-and-arp)
 
