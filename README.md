@@ -3,7 +3,7 @@
 ### In this ReadMe you will find the summary of all the exercices we had the last 4 weeks. With the differents steps and explanations.
 - - -
 # Table of Contents
-1. [Introduction](#introduction) 🧾
+1. [Introduction](#introduction) 
 
 2. [Preparation](#preparation)
 
